@@ -10,7 +10,7 @@ Open `index.html` in a browser to view the invitation.
 - Prenup photos: replace the image links in the `Prenup Photos` section with your real photo files or URLs.
 - Guest list and pax: edit `WEDDING_CONFIG.guests` in `script.js`.
 - Google Form link: replace `googleFormUrl` in `script.js`.
-- Background music: add an MP3 file named `Wedding Music` inside the `assets` folder.
+- Background music: add an MP3 file named `Palagi` inside the `assets` folder.
 
 ## Google Form Prefill
 
